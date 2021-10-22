@@ -1,0 +1,9 @@
+
+am writing car zone project
+
+
+In my project I had created a Nabar which consists of Home, cars, about, contact, services, search bar.
+ in home page I kept caurosal sliding part, latest cars, featured cars and executive team.  
+on  clicking on cars part I made it as a redirected to another page which shows particular car information,
+ and also same for the executive team. In Navbar on clicking on contact, cars, about page that pages will open.
+ for all the car information I used one model, and in the same way I used limited models and fetched the information from database
